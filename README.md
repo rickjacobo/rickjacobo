@@ -6,6 +6,7 @@ Includes, but not limited to, networking (HP, Cisco, f5, Fortinet, pfSense), sys
 
 ## Certifications
 * AWS Certified Solutions Architect Associate
+* AWS SysOps Administrator Associate
 
 ## Websites
 ### Personal Blog 
