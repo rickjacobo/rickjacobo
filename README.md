@@ -5,8 +5,9 @@ As an IT professional I’ve had the opportunity to work in Managed Services, Sc
 Includes, but not limited to, networking (HP, Cisco, f5, Fortinet, pfSense), systems administration (Windows Server/Desktop, Exchange, Ubuntu Server/Desktop, OSX), identity and access management (Active Directory and Group Policy), virtualization (VMWare, Hyper-V), Telephony (8×8 Virtual Office and Virtual Contact Center), Docker, Git, VSCode, Salesforce (Skuid UI/UX Development), Microsoft Enterprise Solutions including Office 365/Microsoft Teams, PowerShell Scripting and Automation, and Amazon Web Services.
 
 ## Certifications
+* AWS Certified Cloud Practitioner
 * AWS Certified Solutions Architect Associate
-* AWS SysOps Administrator Associate
+* AWS Certified SysOps Administrator Associate
 
 ## Websites
 ### Personal Blog 
