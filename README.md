@@ -23,7 +23,7 @@ A modern blogging platform for publishing posts, photos, and ideas — beautiful
 * [Postastiq](https://postastiq.com)
 * [Portfolio Site](https://nyc.sites.postastiq.com) SaaS Deployment via IaC
 * 
-### AutomateWithASAP Website
+### AutomateWithASAP
 ASAP helps you deploy VMware environments quickly and more efficiently. Whether you are building development environments in your home lab or full stacks in production, ASAP will help you deploy faster and better.
 * [AutomateWithASAP.com](https://automatewithasap.com)
 
