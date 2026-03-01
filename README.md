@@ -17,6 +17,12 @@ Includes, but not limited to, networking (HP, Cisco, f5, Fortinet, pfSense), sys
 Strēt is a SaaS offering for food truck owners, built using serverless technologies on the AWS platform (AWS Lambda w/PowerShell, DynamoDB, API Gateway, AWS Location Service, CodeCommit, CodePipeline, S3, CloudFront, Route53), Github, HTML, and CSS.
 * [Stretapp.com](https://stretapp.com)
 
+### Postastiq Blogging Platform
+A modern blogging platform for publishing posts, photos, and ideas — beautifully simple, distraction-free.
+
+* [Postastiq](https://postastiq.com)
+* [Portfolio Site](https://nyc.sites.postastiq.com) SaaS Deployment via IaC
+* 
 ### AutomateWithASAP Website
 ASAP helps you deploy VMware environments quickly and more efficiently. Whether you are building development environments in your home lab or full stacks in production, ASAP will help you deploy faster and better.
 * [AutomateWithASAP.com](https://automatewithasap.com)
