@@ -9,10 +9,10 @@ Includes, but not limited to, networking (HP, Cisco, f5, Fortinet, pfSense), sys
 * AWS Certified Solutions Architect Associate
 * AWS Certified SysOps Administrator Associate
 
-## Websites
-### Personal Blog 
+## Personal Blog 
 * [RickJacobo.com](https://rickjacobo.com)
 
+## Personal Projects
 ### Strēt
 Strēt is a SaaS offering for food truck owners, built using serverless technologies on the AWS platform (AWS Lambda w/PowerShell, DynamoDB, API Gateway, AWS Location Service, CodeCommit, CodePipeline, S3, CloudFront, Route53), Github, HTML, and CSS.
 * [Stretapp.com](https://stretapp.com)
