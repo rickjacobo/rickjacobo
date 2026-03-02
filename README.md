@@ -1,5 +1,9 @@
 # Rick Jacobo
-As an IT professional I’ve had the opportunity to work in Managed Services, School, Enterprise, and Non-Profit settings as a Systems Engineer, Network Engineer, and Technical Lead. Throughout this time I have gained valuable experience and insight to understand IT is not an end, but a means to achieve the goals necessary for a business to thrive and grow.
+Senior Cloud Infrastructure Engineer with 15+ years of experience architecting scalable, secure, and cost-efficient systems across AWS and hybrid enterprise environments. I specialize in multi-region deployments, serverless architectures, Infrastructure as Code, and DevOps automation.
+
+I have a proven track record of reducing cloud spend, leading cross-functional initiatives, and delivering high-impact projects that align engineering capabilities with business objectives.
+
+Passionate about building resilient platforms and enabling engineering organizations to move faster while maintaining operational excellence. AWS-certified and experienced across ECS, EKS, Lambda, CloudFormation, and GitOps workflows.
 
 ## Technical Experience
 Includes, but not limited to, networking (HP, Cisco, f5, Fortinet, pfSense), systems administration (Windows Server/Desktop, Exchange, Ubuntu Server/Desktop, OSX), identity and access management (Active Directory and Group Policy), virtualization (VMWare, Hyper-V), Telephony (8×8 Virtual Office and Virtual Contact Center), Docker, Git, VSCode, Salesforce (Skuid UI/UX Development), Microsoft Enterprise Solutions including Office 365/Microsoft Teams, PowerShell Scripting and Automation, and Amazon Web Services.
