@@ -29,6 +29,7 @@ ASAP helps you deploy VMware environments quickly and more efficiently. Whether 
 
 ### GitHub
 * [GitHub](https://github.com/rickjacobo)
+* [Postastiq](https://github.com/postastiq)
 
 ### DockerHub
 * [DockerHub](https://hub.docker.com/u/rickjacobo)
@@ -50,19 +51,8 @@ ASAP helps you deploy VMware environments quickly and more efficiently. Whether 
 ####  Medium.com
 * [How To Create An AWS Lambda PowerShell Function the Easy Way — Using Docker](https://rickjacobo.medium.com/how-to-create-an-aws-lambda-powershell-application-the-easy-way-using-docker-9e88c2505860)
 
-## Projects
 
-### Strēt
-Strēt is a SaaS offering for food truck owners, built using serverless technologies on the AWS platform (AWS Lambda w/PowerShell, DynamoDB, API Gateway, AWS Location Service, CodeCommit, CodePipeline, S3, CloudFront, Route53), Github, HTML, and CSS. 
-* [Stretapp.com](https://stretapp.com)
-
-### AutomateWithASAP
-ASAP helps you deploy quickly and more efficiently. Whether you are building development environments in your home lab or full stacks in production, ASAP will help you deploy faster and better.
-
-Under the hood, ASAP relies on trusted tools like Docker and PowerShell.
-ASAP works with Windows, MacOS and Linux.
-* [AutomateWithASAP.com](https://automatewithasap.com)
-
+## Other Projects
 ### Webmon
 Webmon is a website monitoring and alerting tool built with PowerShell and uses a MySQL backend, container platform (docker, kubernetes, etc), and Pager Duty for alerting and incident management.
 * [Webmon Github Project Site](https://github.com/rickjacobo/webmon)
