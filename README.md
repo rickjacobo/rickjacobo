@@ -28,7 +28,7 @@ ASAP helps you deploy VMware environments quickly and more efficiently. Whether 
 * [AutomateWithASAP.com](https://automatewithasap.com)
 
 ### GitHub
-* [GitHub](https://github.com/rickjacobo)
+* [rickjacobo](https://github.com/rickjacobo)
 * [Postastiq](https://github.com/postastiq)
 
 ### DockerHub
