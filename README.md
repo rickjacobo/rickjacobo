@@ -26,7 +26,7 @@ ASAP helps you deploy VMware environments quickly and more efficiently. Whether 
 
 ### GitHub
 * [rickjacobo](https://github.com/rickjacobo)
-* [Postastiq](https://github.com/postastiq)
+* [Postastiq](https://github.com/postastiq/postastiq)
 
 ### DockerHub
 * [DockerHub](https://hub.docker.com/u/rickjacobo)
