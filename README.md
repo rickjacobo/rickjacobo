@@ -20,7 +20,7 @@ Website
 https://rickjacobo.com/virtuoso.html
 
 Releases
-https://github.com/rickjacobo/virtuoso-releasese
+https://github.com/rickjacobo/virtuoso-releases
 
 ---
 
